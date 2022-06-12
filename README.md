@@ -10,6 +10,4 @@ This project uses 4 classification algorithms and compares their evaluation to f
 
 I got a full grade of 25/25 after my _peers_ in the course reviewed my submission which matched the required points were given in the description of the project.
 
-Checkout the certificate using this [link]().
-
-![My Remote Image]([https://www.dropbox.com/s/.../my-remote-image.jpg?dl=0](https://www.coursera.org/account/accomplishments/certificate/WR7J42DXW359))
+![Screenshot_2](https://user-images.githubusercontent.com/80653174/173248876-93ecb85b-ac8b-4dc3-9ca8-4dbf033397b7.png)
